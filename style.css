@@ -1,3 +1,4 @@
 body{
-    background: linear-gradient(168deg, #FED7EC 0%, #FFF 46.43%, #FF9FCF 101.07%) no-repeat 100% 100%;
+    background: #020024;
+    background: linear-gradient(350deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
 }
